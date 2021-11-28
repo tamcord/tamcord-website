@@ -1,7 +1,7 @@
 {
-  "name": "fosscord-landingpage",
+  "name": "tamcord-website",
   "version": "1.0.0",
-  "author": "Conner Bachmann <mail@conner-bachmann.de>",
+  "author": "Fruity",
   "private": false,
   "scripts": {
     "dev": "nuxt",
