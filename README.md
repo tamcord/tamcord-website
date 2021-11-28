@@ -1,4 +1,4 @@
-# fosscord-landingpage
+# Tamcord Website
 
 ## Build Setup
 
